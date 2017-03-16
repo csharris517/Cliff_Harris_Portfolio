@@ -1,0 +1,157 @@
+/* line 1, /Users/Cliff/IdeaProjects/Cliff_Harris_Portfolio/app/assets/stylesheets/scaffolds.scss */
+body {
+  background-color: #e0e2e4;
+  color: #625750;
+  font-family: verdana, arial, helvetica, sans-serif;
+  font-size: 13px;
+  line-height: 18px;
+  margin: 33px;
+}
+
+/* line 10, /Users/Cliff/IdeaProjects/Cliff_Harris_Portfolio/app/assets/stylesheets/scaffolds.scss */
+h1 {
+  color: #625750;
+}
+
+/* line 14, /Users/Cliff/IdeaProjects/Cliff_Harris_Portfolio/app/assets/stylesheets/scaffolds.scss */
+h2 {
+  color: #625750;
+  text-align: center;
+}
+
+/* line 19, /Users/Cliff/IdeaProjects/Cliff_Harris_Portfolio/app/assets/stylesheets/scaffolds.scss */
+h3 {
+  color: #625750;
+}
+
+/* line 23, /Users/Cliff/IdeaProjects/Cliff_Harris_Portfolio/app/assets/stylesheets/scaffolds.scss */
+p, ol, ul, td {
+  font-family: verdana, arial, helvetica, sans-serif;
+  font-size: 13px;
+  line-height: 18px;
+  margin: 33px;
+}
+
+/* line 30, /Users/Cliff/IdeaProjects/Cliff_Harris_Portfolio/app/assets/stylesheets/scaffolds.scss */
+pre {
+  background-color: #eee;
+  padding: 10px;
+  font-size: 11px;
+}
+
+/* line 36, /Users/Cliff/IdeaProjects/Cliff_Harris_Portfolio/app/assets/stylesheets/scaffolds.scss */
+a {
+  color: #000;
+}
+/* line 39, /Users/Cliff/IdeaProjects/Cliff_Harris_Portfolio/app/assets/stylesheets/scaffolds.scss */
+a:visited {
+  color: #666;
+}
+/* line 43, /Users/Cliff/IdeaProjects/Cliff_Harris_Portfolio/app/assets/stylesheets/scaffolds.scss */
+a:hover {
+  color: #fff;
+  background-color: #000;
+}
+
+/* line 49, /Users/Cliff/IdeaProjects/Cliff_Harris_Portfolio/app/assets/stylesheets/scaffolds.scss */
+table {
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* line 55, /Users/Cliff/IdeaProjects/Cliff_Harris_Portfolio/app/assets/stylesheets/scaffolds.scss */
+td {
+  border: 2px solid #625750;
+}
+
+/* line 59, /Users/Cliff/IdeaProjects/Cliff_Harris_Portfolio/app/assets/stylesheets/scaffolds.scss */
+th {
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: #625750;
+  text-align: left;
+}
+
+/* line 67, /Users/Cliff/IdeaProjects/Cliff_Harris_Portfolio/app/assets/stylesheets/scaffolds.scss */
+td {
+  padding-bottom: 7px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+/* line 74, /Users/Cliff/IdeaProjects/Cliff_Harris_Portfolio/app/assets/stylesheets/scaffolds.scss */
+div.field, div.actions {
+  margin-bottom: 10px;
+}
+
+/* line 79, /Users/Cliff/IdeaProjects/Cliff_Harris_Portfolio/app/assets/stylesheets/scaffolds.scss */
+#notice {
+  color: green;
+}
+
+/* line 83, /Users/Cliff/IdeaProjects/Cliff_Harris_Portfolio/app/assets/stylesheets/scaffolds.scss */
+.field_with_errors {
+  padding: 2px;
+  background-color: red;
+  display: table;
+}
+
+/* line 89, /Users/Cliff/IdeaProjects/Cliff_Harris_Portfolio/app/assets/stylesheets/scaffolds.scss */
+#error_explanation {
+  width: 450px;
+  border: 2px solid red;
+  padding: 7px;
+  padding-bottom: 0;
+  margin-bottom: 20px;
+  background-color: #f0f0f0;
+}
+/* line 97, /Users/Cliff/IdeaProjects/Cliff_Harris_Portfolio/app/assets/stylesheets/scaffolds.scss */
+#error_explanation h2 {
+  text-align: left;
+  font-weight: bold;
+  padding: 5px 5px 5px 15px;
+  font-size: 12px;
+  margin: -7px;
+  margin-bottom: 0;
+  background-color: #c00;
+  color: #fff;
+}
+/* line 108, /Users/Cliff/IdeaProjects/Cliff_Harris_Portfolio/app/assets/stylesheets/scaffolds.scss */
+#error_explanation ul li {
+  font-size: 12px;
+  list-style: square;
+}
+
+/* line 114, /Users/Cliff/IdeaProjects/Cliff_Harris_Portfolio/app/assets/stylesheets/scaffolds.scss */
+label {
+  display: block;
+}
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or any plugin's vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any styles
+ * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
+ * file per style scope.
+ *
+
+
+ */
+
+
+#Header {
+    background-color:#c6bcb6;
+    color: #625750;
+    padding: 10px;
+    border: 2px solid #625750;
+}
+
+#Header h2 {
+    text-align: left;
+}
