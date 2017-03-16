@@ -5,6 +5,7 @@ body {
   font-size: 13px;
   line-height: 18px;
   margin: 33px;
+
 }
 
 h1 {
@@ -12,6 +13,11 @@ h1 {
 }
 
 h2 {
+  color: #625750;
+  text-align: center;
+}
+
+h3 {
   color: #625750;
 }
 
@@ -43,6 +49,8 @@ a {
 
 table {
   border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 td {

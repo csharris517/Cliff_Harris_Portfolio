@@ -10,7 +10,7 @@
       <th>Assignment Name</th>
       <th>Source</th>
       <th>Link</th>
-      <th colspan="3"></th>
+      <th colspan="2"></th>
     </tr>
   </thead>
 
@@ -22,9 +22,10 @@
         <td><%= assignment.name %></td>
         <td><%= assignment.assignment_source %></td>
         <td><%= link_to assignment.assignment_file, asset_path(assignment.assignment_file), target: '_blank' %></td>
-        <td><%= link_to 'Show', assignment %></td>
+
         <td><%= link_to 'Edit', edit_assignment_path(assignment) %></td>
         <td><%= link_to 'Destroy', assignment, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+
       </tr>
     <% end %>
   </tbody>
